@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Tom Lefevre</h1>
 <h3 align="center">A passionate frontend developer from France</h3>
 
-- 🔭 I’m currently working on **myself**
+- 🔭 I’m currently working on **my portfolio** at [tomlefevre.fr](https://tomlefevre.fr)
 
 - 🌱 I’m currently learning **UI/UX Design & Dev**
 
-- 👨‍💻 All of my projects are available at [https://tomlefevre.fr](https://tomlefevre.fr)
+- 👨‍💻 All of my projects are available at [tomlefevre.fr](https://tomlefevre.fr)
 
 - 📫 How to reach me **lefevre.tomtom@gmail.com**
 
